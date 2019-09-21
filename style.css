@@ -1,0 +1,17 @@
+/*CSS選擇器*/
+/*標籤選擇器*/
+body{font-family: "微軟正黑體","新細明體";background-color: beige;}
+/*ID選擇器*/
+#del{text-decoration: line-through;}
+/*CLASS選擇器*/
+.all{background-color: burlywood;}
+.title{
+    font-size: 24px;
+    font-weight: bold;}
+.content{
+    width:500px;
+    border:5px dashed rgb(97, 97, 207);
+    padding:15px;
+    margin-top:20px}
+.keyword{color:red}
+.underline{text-decoration: underline}
